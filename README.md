@@ -34,17 +34,25 @@ CRM por voz: você grava um áudio depois da reunião e a IA transcreve, identif
 Assistente pessoal que organiza finanças, agenda, tarefas e hábitos a partir de comandos de voz ou texto.
 
 -- Como eu trabalho
+
 Produto primeiro: encontro um problema real, construo o MVP, coloco no ar e vou melhorando com base no uso.
+
 Desenvolvimento com IA: uso o Agentes de IA como par de programação. Eu defino o produto, conduzo a implementação e testo tudo antes de publicar.
+
 Do código ao dinheiro: cuido do deploy, do banco de dados, dos pagamentos e da negociação de venda.
 
 Ferramentas que uso nos projetos: · PostgreSQL · Stripe · Cloudflare R2 · Railway · OpenAI API · Gemini API · Git
 
 -- Estudando agora
+
 Graduação em Análise e Desenvolvimento de Sistemas
 Python, começando pelos fundamentos
 Revisão de código e segurança em aplicações web
-📫 Contato
+
+📫 Contato: cauedalberto2@gmail.com
+
 🌐 Portfólio: portifoliocau-production.up.railway.app
+
 ✉️ E-mail: cauedalberto2@gmail.com
+
 🏷️ Flippa (perfil no marketplace onde faço as vendas): flippa.com/users/4694749
