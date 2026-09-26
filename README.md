@@ -12,7 +12,8 @@ Em números
 2 SaaS vendidos no Flippa, somando US$ 5.000 em vendas
 +£ 2.000 em serviços de manutenção prestados a um comprador depois da venda,
 4 produtos no ar, com compradores e usuários no Brasil, na Europa e na Austrália
-Projetos
+
+Projetos:
 
 -- FC Career Hub: vendido por US$ 3.000
 
