@@ -56,6 +56,6 @@ Assistente pessoal que organiza finanças, agenda, tarefas e hábitos a partir d
 
 ## 📫 Contato
 
-- 🌐 Portfólio: [portifoliocau-production.up.railway.app](https://portifoliocau-production.up.railway.app/)
+- 🌐 Portfólio: [https://meuportfolio.up.railway.app/](https://meuportfolio.up.railway.app/)
 - ✉️ E-mail: [cauedalberto2@gmail.com](mailto:cauedalberto2@gmail.com)
 - 🏷️ Flippa (marketplace onde faço as vendas): [flippa.com/users/4694749](https://flippa.com/users/4694749)
